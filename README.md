@@ -12,7 +12,7 @@ Tugas ini adalah pengembangan aplikasi **Flutter** untuk manajemen biodata siswa
 Proyek ini dikelola dalam satu folder utama bernama `biodata` dengan rincian sebagai berikut:
 
 * **`lib/`** Berisi seluruh kode sumber Flutter, mulai dari logika tampilan (UI) hingga fungsi yang menghubungkan aplikasi dengan backend PHP.
-* **`api_php/`** Berisi file script PHP yang berfungsi sebagai *backend* atau API untuk menjembatani komunikasi antara aplikasi Flutter dan database.
+* **`api.php/`** Berisi file script PHP yang berfungsi sebagai *backend* atau API untuk menjembatani komunikasi antara aplikasi Flutter dan database.
 * **`siswa.sql`** File ekspor database yang berisi struktur tabel dan data siswa. Gunakan file ini untuk melakukan *import* ke MySQL (phpMyAdmin).
 
 ---
